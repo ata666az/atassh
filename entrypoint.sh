@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# 🔥 KUNCI UTAMA ANTI REKONEK: Buka paksa limit socket & stack size Alpine Linux
+# 🔥 KUNCI UTAM ANTI REKONEK: Buka paksa limit socket & stack size Alpine Linux
 ulimit -n 65535
 ulimit -s unlimited
 
